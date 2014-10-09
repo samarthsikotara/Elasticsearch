@@ -126,7 +126,6 @@ $es = new \Elasticsearch\Client(
     )
 );
 
-/*
 $es->index(
     array(
         'index' => 'my_app',
@@ -190,4 +189,3 @@ $params['body'] = array(
 
 $results = $es->search($params);
 print_r(json_encode($results));
-*/

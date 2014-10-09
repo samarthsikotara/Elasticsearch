@@ -30,10 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="192" column="2" selection-start="7379" selection-end="7379" vertical-scroll-proportion="0.0">
+            <state line="191" column="0" selection-start="7374" selection-end="7374" vertical-scroll-proportion="0.9344894">
               <folding />
             </state>
           </provider>
@@ -54,10 +54,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="add.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/add.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="44" selection-start="642" selection-end="642" vertical-scroll-proportion="0.5895954">
+            <state line="20" column="44" selection-start="642" selection-end="642" vertical-scroll-proportion="-11.769231">
               <folding />
             </state>
           </provider>
@@ -83,9 +83,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/elasticsearch-0.90.10/logs/elasticsearch.log" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/search.php" />
         <option value="$PROJECT_DIR$/add.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -359,13 +359,6 @@
         <state line="56" column="0" selection-start="6576" selection-end="6576" vertical-scroll-proportion="1.8851485" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="192" column="2" selection-start="7379" selection-end="7379" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="20" selection-start="145" selection-end="145" vertical-scroll-proportion="-4.9615383">
@@ -381,7 +374,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/add.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="44" selection-start="642" selection-end="642" vertical-scroll-proportion="0.5895954">
+        <state line="20" column="44" selection-start="642" selection-end="642" vertical-scroll-proportion="-11.769231">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="0" selection-start="7374" selection-end="7374" vertical-scroll-proportion="0.9344894">
           <folding />
         </state>
       </provider>
