@@ -36,6 +36,7 @@ require_once 'vendor/Guzzle\Http\Message\Header\HeaderFactoryInterface.php';
 require_once 'vendor/Guzzle\Http\Message\Header\HeaderFactory.php';
 require_once 'vendor/Guzzle/Http/Message/AbstractMessage.php';
 require_once 'vendor/Elasticsearch\Common\Exceptions\BadRequest400Exception.php';
+require_once 'vendor/Elasticsearch\Common\Exceptions\Missing404Exception.php';
 require_once 'vendor/Guzzle\Common\Exception\GuzzleException.php';
 
 require_once 'vendor/Guzzle\Common\Exception\RuntimeException.php';
@@ -167,7 +168,7 @@ $doc = $es->get(
     array(
         'index' => 'roofz',
         'type' => 'Real Estate Property Portal',
-        'id' => 3
+        'id' => 2
 
     )
 );
