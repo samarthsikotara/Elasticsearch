@@ -1,2 +1,19 @@
-[2014-10-10 00:29:18,724][INFO ][monitor.jvm              ] [Shinchuko Lotus] [gc][young][9472][22] duration [903ms], collections [1]/[2.5s], total [903ms]/[2.4s], memory [29mb]->[13.4mb]/[1020.8mb], all_pools {[young] [15.8mb]->[305.8kb]/[25.6mb]}{[survivor] [637.2kb]->[322.2kb]/[3.1mb]}{[old] [12.6mb]->[12.8mb]/[992mb]}
-[2014-10-10 01:06:34,939][INFO ][monitor.jvm              ] [Shinchuko Lotus] [gc][young][11669][24] duration [923ms], collections [1]/[2.9s], total [923ms]/[3.9s], memory [29mb]->[13.6mb]/[1020.8mb], all_pools {[young] [15.8mb]->[221.5kb]/[25.6mb]}{[survivor] [370.1kb]->[469.2kb]/[3.1mb]}{[old] [12.8mb]->[12.9mb]/[992mb]}
+[2014-10-10 13:19:52,163][WARN ][bootstrap                ] jvm uses the client vm, make sure to run `java` with the server vm for best performance by adding `-server` to the command line
+[2014-10-10 13:19:52,632][INFO ][node                     ] [Ocean] version[0.90.10], pid[7116], build[0a5781f/2014-01-10T10:18:37Z]
+[2014-10-10 13:19:52,633][INFO ][node                     ] [Ocean] initializing ...
+[2014-10-10 13:19:52,697][INFO ][plugins                  ] [Ocean] loaded [], sites []
+[2014-10-10 13:20:03,379][INFO ][node                     ] [Ocean] initialized
+[2014-10-10 13:20:03,381][INFO ][node                     ] [Ocean] starting ...
+[2014-10-10 13:20:04,207][INFO ][transport                ] [Ocean] bound_address {inet[/0.0.0.0:9300]}, publish_address {inet[/192.168.0.103:9300]}
+[2014-10-10 13:20:07,828][INFO ][cluster.service          ] [Ocean] new_master [Ocean][Hfw3au_kT0Sd5F9xx0ua_w][inet[/192.168.0.103:9300]], reason: zen-disco-join (elected_as_master)
+[2014-10-10 13:20:07,997][INFO ][discovery                ] [Ocean] elasticsearch/Hfw3au_kT0Sd5F9xx0ua_w
+[2014-10-10 13:20:08,386][INFO ][http                     ] [Ocean] bound_address {inet[/0.0.0.0:9200]}, publish_address {inet[/192.168.0.103:9200]}
+[2014-10-10 13:20:08,388][INFO ][node                     ] [Ocean] started
+[2014-10-10 13:20:10,399][INFO ][gateway                  ] [Ocean] recovered [3] indices into cluster_state
+[2014-10-10 13:32:31,394][INFO ][cluster.metadata         ] [Ocean] [roofz] creating index, cause [auto(index api)], shards [5]/[1], mappings []
+[2014-10-10 13:32:32,097][INFO ][cluster.metadata         ] [Ocean] [roofz] update_mapping [Real Estate Property Portal] (dynamic)
+[2014-10-10 13:33:04,457][INFO ][cluster.metadata         ] [Ocean] [roofz] update_mapping [roof] (dynamic)
+[2014-10-10 13:47:39,395][INFO ][node                     ] [Ocean] stopping ...
+[2014-10-10 13:47:39,951][INFO ][node                     ] [Ocean] stopped
+[2014-10-10 13:47:39,951][INFO ][node                     ] [Ocean] closing ...
+[2014-10-10 13:47:40,026][INFO ][node                     ] [Ocean] closed
